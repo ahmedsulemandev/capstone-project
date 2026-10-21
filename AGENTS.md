@@ -21,3 +21,12 @@ HTML, CSS, and JavaScript.
 ## Documentation
 - Keep README.md accurate and updated.
 - Never invent completed features.
+
+## Change Management
+
+- Inspect existing files before editing.
+- Make focused, minimal changes.
+- Explain important changes after completing a task.
+- Ask before adding dependencies.
+- Never expose API keys, passwords, or secrets.
+- Do not claim tests passed unless they were run successfully.
