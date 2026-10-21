@@ -1,40 +1,41 @@
-# Capstone Project
+# Software Engineering Capstone
 
-## Overview
-A software engineering capstone project currently in planning.
+## Purpose
 
-## Objectives
-- Practice software development fundamentals.
-- Use Git and GitHub for version control.
-- Follow clean coding and documentation practices.
+This repository is the starting point for a software engineering capstone project. It is intended to support practical work on software development fundamentals, version control, and clear coding and documentation practices. The specific application concept and scope have not yet been defined.
 
-## Planned Technology Stack
+## Development status
+
+**Planning / initial repository setup.** No application code or implemented features are present yet. Project requirements and setup steps will be documented as development progresses.
+
+## Intended technology stack
+
 - HTML
 - CSS
 - JavaScript
 
-## Planned Features
-Features will be defined during project development.
+These technologies are planned; the application has not yet been implemented.
+
+## Planned features
+
+Features are yet to be defined. This section will be updated after the project requirements and scope are established.
+
+## Repository structure
+
+| File | Purpose |
+| --- | --- |
+| `README.md` | Project overview, status, and documentation. |
+| `AGENTS.md` | Project instructions, coding conventions, and workflow guidance. |
+| `.gitignore` | Git ignore rules; currently empty. |
+| `LICENSE` | Intended location for project licensing information; currently empty. |
 
 ## Setup
-1. Clone the repository.
-2. Open the project folder in VS Code.
-3. Follow the setup instructions added during development.
 
-## Project Status
-Initial repository setup.
+There is no application to run or development environment to configure yet. Once implementation begins, this section will provide the repository clone instructions, any prerequisites, and the steps to install dependencies (if needed) and run the project. The project is intended to avoid unnecessary dependencies.
 
-## Development Workflow
+## Development practices
 
-1. Plan the task before making changes.
-2. Use Git to track project progress.
-3. Follow Conventional Commits for commit messages.
-4. Review changes before committing.
-5. Test changes and update documentation when needed.
-
-## Repository Structure
-
-- `README.md` — Project overview and documentation.
-- `LICENSE` — Project licensing information.
-- `.gitignore` — Files excluded from Git tracking.
-- `AGENTS.md` — Instructions for AI coding agents.
+- Use Git to track project changes and review work before committing.
+- Follow Conventional Commits for commit messages.
+- Keep code readable and organized, and update documentation as the project evolves.
+- Test changes before considering work complete.
